@@ -2,5 +2,6 @@
     <string name="app_name">Time Fighter</string>
     <string name="score">Your Score: %1$d</string>
     <string name="time">Time Left: %1$d</string>
-    <string name="button_text">Tap Me!</string>
+    <string name="button">Tap Me!</string>
+    <string name="gameover">Times up! Your score was: %1$d</string>
 </resources>
